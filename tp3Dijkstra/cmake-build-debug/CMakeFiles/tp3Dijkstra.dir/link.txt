@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\tp3Dijkstra.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\tp3Dijkstra.dir/objects.a @CMakeFiles\tp3Dijkstra.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\tp3Dijkstra.dir/objects.a -Wl,--no-whole-archive -o tp3Dijkstra.exe -Wl,--out-implib,libtp3Dijkstra.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tp3Dijkstra.dir\linklibs.rsp

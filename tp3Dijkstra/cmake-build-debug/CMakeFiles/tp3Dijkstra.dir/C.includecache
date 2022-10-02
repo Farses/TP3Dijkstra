@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fares/CLionProjects/tp3Dijkstra/Graphe.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/fares/CLionProjects/tp3Dijkstra/cellule.h
+
+C:/Users/fares/CLionProjects/tp3Dijkstra/fifo.h
+cellule.h
+C:/Users/fares/CLionProjects/tp3Dijkstra/cellule.h
+
+C:/Users/fares/CLionProjects/tp3Dijkstra/main.c
+stdio.h
+-
+Graphe.h
+C:/Users/fares/CLionProjects/tp3Dijkstra/Graphe.h
+fifo.h
+C:/Users/fares/CLionProjects/tp3Dijkstra/fifo.h
+

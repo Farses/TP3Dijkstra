@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tp3Dijkstra"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp3Dijkstra">
+				<Option output="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/tp3Dijkstra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp3Dijkstra"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp3Dijkstra/fast">
+				<Option output="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/tp3Dijkstra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp3Dijkstra/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/fares/CLionProjects/tp3Dijkstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/fares/CLionProjects/tp3Dijkstra/Graphe.h">
+			<Option target="tp3Dijkstra"/>
+		</Unit>
+		<Unit filename="C:/Users/fares/CLionProjects/tp3Dijkstra/cellule.h">
+			<Option target="tp3Dijkstra"/>
+		</Unit>
+		<Unit filename="C:/Users/fares/CLionProjects/tp3Dijkstra/fifo.c">
+			<Option target="tp3Dijkstra"/>
+		</Unit>
+		<Unit filename="C:/Users/fares/CLionProjects/tp3Dijkstra/fifo.h">
+			<Option target="tp3Dijkstra"/>
+		</Unit>
+		<Unit filename="C:/Users/fares/CLionProjects/tp3Dijkstra/main.c">
+			<Option target="tp3Dijkstra"/>
+		</Unit>
+		<Unit filename="C:/Users/fares/CLionProjects/tp3Dijkstra/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
